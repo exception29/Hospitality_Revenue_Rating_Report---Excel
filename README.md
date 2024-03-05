@@ -1,5 +1,5 @@
 # Hospitality_Revenue_Rating_Report---Excel
-The goal is to create the reports that using Power Pivot and DAX measures. 
+The goal is to create the reports using Power Pivot and DAX measures. 
 Input CSV files: "fact_bookings" and "dim_properties".
 
 1 . fact_bookings: The "fact_bookings" file contains various columns, including booking_id, property_id, check_in_date, month, week_no, booking_platform, ratings_given, booking_status, successful_bookings, and capacity. This file contains details about every booking made for a specific property/hotel.
