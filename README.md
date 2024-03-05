@@ -7,5 +7,7 @@ Input CSV files: "fact_bookings" and "dim_properties".
 
 Generated Reports for following Questions:
 1 . Among properties falling in the Business category, which property generated the highest revenue in the month of June as compared to others?
+
 2.	For Atliq Grands in the week of 'W 27', which booking platform was the most effective in generating revenue?
+   
 3.	What was the average rating of 'Atliq Blu' in the month of July?
